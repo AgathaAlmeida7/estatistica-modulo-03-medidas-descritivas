@@ -1,0 +1,26 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados do projeto
+data/raw/
+data/processed/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações locais do VS Code
+.vscode/
