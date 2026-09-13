@@ -13,6 +13,7 @@ __pycache__/
 # Dados do projeto
 data/raw/
 data/processed/
+data/interim/
 
 # Arquivos temporários
 *.tmp
